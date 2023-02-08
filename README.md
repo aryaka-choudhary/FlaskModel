@@ -1,2 +1,1 @@
-# FlaskModel
-FlaskModel
+# Usage of server and ML model overview
